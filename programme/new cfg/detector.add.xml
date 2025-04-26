@@ -1,0 +1,12 @@
+<additional>
+   <entryExitDetector id="ETW1" freq="100" file="output_E3.xml"
+   timeThreshold="1" speedThreshold="3.6" vTypes="vtypeauto">
+      <detEntry lane="E0_0" pos="100" friendlyPos="true"/>
+      <detEntry lane="E0_1" pos="100" friendlyPos="true"/>
+      <detEntry lane="E0_2" pos="100" friendlyPos="true"/>
+
+      <detExit lane="E0_0" pos="1100" friendlyPos="true"/>
+      <detExit lane="E0_1" pos="1100" friendlyPos="true"/>
+      <detExit lane="E0_2" pos="1100" friendlyPos="true"/>
+   </entryExitDetector>
+</additional>

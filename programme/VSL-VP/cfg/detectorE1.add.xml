@@ -1,0 +1,17 @@
+<additional>
+
+    <inductionLoop id="E0_0" lane="E2_0" period="450"
+                  pos="1000" file="output_E1" firendlyPos="true"/>
+    <inductionLoop id="E0_1" lane="E2_1" period="450"
+                  pos="1000" file="output_E1" firendlyPos="true"/>
+    <inductionLoop id="E0_2" lane="E2_2" period="450"
+                  pos="1000" file="output_E1" firendlyPos="true"/>
+
+    <inductionLoop id="E2_0" lane="E2_0" period="450"
+                  pos="2550" file="output_E1" firendlyPos="true"/>
+    <inductionLoop id="E2_1" lane="E2_1" period="450"
+                  pos="2550" file="output_E1" firendlyPos="true"/>
+    <inductionLoop id="E2_2" lane="E2_2" period="450"
+                  pos="2550" file="output_E1" firendlyPos="true"/>
+
+</additional>

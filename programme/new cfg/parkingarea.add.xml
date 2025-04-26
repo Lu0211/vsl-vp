@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<parkingAreas>
+        <parkingArea id="ParkAreaA" lane="E0_1" startPos="1000"
+                     endPos="1050" onRoad="True" roadsideCapacity="5"
+                     angel="45" length="10" capacity="5"/>
+        <parkingArea id="ParkAreaA2" lane="E0_0" startPos="1000"
+                     endPos="1050" onRoad="True" roadsideCapacity="5"
+                     angel="45" length="10" capacity="5"/>
+        <parkingArea id="ParkAreaA3" lane="E0_2" startPos="1000"
+                     endPos="1050" onRoad="True" roadsideCapacity="5"
+                     angel="45" length="10" capacity="5"/>
+        <parkingArea id="ParkAreaB" lane="E0_1" startPos="1500"
+                     endPos="1550" onRoad="True" roadsideCapacity="5"
+                     angel="45" length="10" capacity="5"/>
+        <parkingArea id="ParkAreaC" lane="E0_0" startPos="1400"
+                     endPos="1450" onRoad="True" roadsideCapacity="5"
+                     angel="45" length="10" capacity="5"/>
+        <parkingArea id="ParkAreaD" lane="E0_0" startPos="1800"
+                     endPos="1850" onRoad="True" roadsideCapacity="5"
+                     angel="45" length="10" capacity="5"/>
+        <parkingArea id="ParkAreaE" lane="E0_2" startPos="1100"
+                     endPos="1150" onRoad="True" roadsideCapacity="5"
+                     angel="45" length="10" capacity="5"/>
+        <parkingArea id="ParkAreaF" lane="E0_2" startPos="1600"
+                     endPos="1650" onRoad="True" roadsideCapacity="5"
+                     angel="45" length="10" capacity="5"/>
+</parkingAreas>

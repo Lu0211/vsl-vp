@@ -1,0 +1,26 @@
+<routes>
+	<vType id="vtypeauto" accel="2.5" decel="8" sigma="0.5" length="4"
+		   minGap="0" maxSpeed="30.55" color="51,153,255" probability="1"
+		   carFollowModel="CC" tauEngine="0.5" omegaN="0.2" xi="1" c1="0.5"
+		   lanesCount="4" ccAccel="1.5" ploegKp="0.2" ploegKd="0.7" vClass="taxi"
+		   ploegH="0.5" speedFactor="2" laneChangeModel="LC2013" lcOvertakeRight="1"/>
+
+	<vType id="passenger" accel="1.5" decel="4.5" sigma="0.5" length="4"
+		   minGap="3" maxSpeed="30.55" color="150,194,78" vClass="passenger"
+		   guiShape="passenger" speedFactor="1" departSpeed="max"
+		   carFollowModel="IDM" laneChangeModel="LC2013" lcOvertakeRight="1"/>
+
+	<vType id="passenger2" accel="1.5" decel="4.5" sigma="0.5" length="4"
+		   minGap="3" maxSpeed="27.77" color="190,201,54" vClass="passenger"
+		   guiShape="passenger" speedFactor="1" departSpeed="max"
+	       carFollowModel="IDM" laneChangeModel="LC2013" lcOvertakeRight="1"/>
+<!--	<vehicle id="0" depart="0">-->
+<!--		<route edges="E0"/>-->
+<!--		<stop parkingArea="ParkAreaA" duration="20"/>-->
+<!--	</vehicle>-->
+
+	<route id="platoon_route" edges="E0"/>
+
+
+</routes>
+

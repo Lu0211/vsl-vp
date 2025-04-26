@@ -1,0 +1,12 @@
+<routes>
+
+   <vType id="CarA" accel="2.5" decel="4.5" emergencyDecel="9.0" length="5" color="1,1,0" vClass="passenger" maxSpeed="25" carFollowModel="IDM"/>
+   <vType id="CarB" accel="2.5" decel="4.5" emergencyDecel="9.0" length="5" color="1,1,0" vClass="passenger" maxSpeed="10" carFollowModel="IDM"/>
+
+   <route id="route1" edges="gneE0 gneE1" />
+
+   <vehicle id="vehicle1" depart="0" departLane="0" arrivalLane="0" departPos="3" departSpeed="1" route="route1" type="CarB" color="1,0,0"/>
+   <vehicle id="self_car" depart="5" departLane="0" arrivalLane="0" departPos="3" departSpeed="1" route="route1" type="CarA" color="1,1,0"/>
+
+</routes>
+

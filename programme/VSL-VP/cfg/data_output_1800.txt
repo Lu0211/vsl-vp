@@ -1,0 +1,40 @@
+Data for interval (0.00, 3600.00):
+ID Prefix: E0, Flow Sum: 1758.0
+ID Prefix: E2, Flow Sum: 1715.0
+
+Data for interval (3600.00, 7200.00):
+ID Prefix: E0, Flow Sum: 1760.0
+ID Prefix: E2, Flow Sum: 1751.0
+
+Data for interval (7200.00, 10800.00):
+ID Prefix: E0, Flow Sum: 1779.0
+ID Prefix: E2, Flow Sum: 1783.0
+
+Data for interval (10800.00, 14400.00):
+ID Prefix: E0, Flow Sum: 1831.0
+ID Prefix: E2, Flow Sum: 1829.0
+
+Data for interval (14400.00, 18000.00):
+ID Prefix: E0, Flow Sum: 1844.0
+ID Prefix: E2, Flow Sum: 1854.0
+
+Data for interval (18000.00, 21600.00):
+ID Prefix: E0, Flow Sum: 1900.0
+ID Prefix: E2, Flow Sum: 1880.0
+
+Data for interval (21600.00, 25200.00):
+ID Prefix: E0, Flow Sum: 1852.0
+ID Prefix: E2, Flow Sum: 1854.0
+
+Data for interval (25200.00, 28800.00):
+ID Prefix: E0, Flow Sum: 1829.0
+ID Prefix: E2, Flow Sum: 1833.0
+
+Data for interval (28800.00, 32400.00):
+ID Prefix: E0, Flow Sum: 1751.0
+ID Prefix: E2, Flow Sum: 1751.0
+
+Data for interval (32400.00, 36000.00):
+ID Prefix: E0, Flow Sum: 1839.0
+ID Prefix: E2, Flow Sum: 1839.0
+

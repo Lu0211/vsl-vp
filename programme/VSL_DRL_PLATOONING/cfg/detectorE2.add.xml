@@ -1,0 +1,11 @@
+<additional>
+   <laneAreaDetector id="lane_index_1" lanes="E0_1 E1_1 E2_1 E3_1"
+                     pos="0" endPos="2000" friendlyPos="true" length="0"
+                     file="output_E2"/>
+   <laneAreaDetector id="lane_index_0" lanes="E0_0 E1_0 E2_0 E3_0"
+                     pos="0" endPos="2000" friendlyPos="true" length="0"
+                     file="output_E2"/>
+   <laneAreaDetector id="lane_index_2" lanes="E0_2 E1_2 E2_2 E3_2"
+                     pos="0" endPos="2000" friendlyPos="true" length="0"
+                     file="output_E2"/>
+</additional>

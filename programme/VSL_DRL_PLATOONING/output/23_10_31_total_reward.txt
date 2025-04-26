@@ -1,0 +1,9 @@
+Episode 1: Total Reward = -3200
+Episode 1: Total Reward = -3200
+Episode 1: Total Reward = -100.34594594594594
+Episode 1: Total Reward = 1.0324324324324337
+Episode 1: Total Reward = 2.2324324324324336
+Episode 1: Total Reward = 2.2324324324324336
+Episode 1: Total Reward = 0.0
+Episode 1: Total Reward = 1.2027027027027013
+Episode 1: Total Reward = -100.19594594594595
